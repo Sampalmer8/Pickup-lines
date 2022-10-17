@@ -1,0 +1,21 @@
+html {
+    background: url("img/IlloDot_Relationships-cbcc130cbfad48f085228eb90865a502.png") no-repeat center fixed;
+}
+
+div {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(141, 233, 233, 0.432);
+    padding: 50px;
+    border-radius: 25px;
+}
+
+p {
+    font-size: large;
+}
+
+button {
+    font-size: large;
+    border-radius: 5px;
+}
