@@ -21,12 +21,12 @@ function btnClicked() {
     } else if (randNum < 0.35) {
         output.innerHTML = "Can I borrow a kiss? I swear I'll give it back";
     } else if (randNum < 0.4) {
-        output.innerHTML = "Did you fall from heaven? CauseI think God is missing an angel";
+        output.innerHTML = "Did you fall from heaven? Cause I heard God is missing an angel";
     } else if (randNum < 0.45) {
         output.innerHTML = "Are you tired? Cause you've been running through my mind all day.";
     } else if (randNum < 0.5) {
         output.innerHTML = "Hopefully you know CPR. Cause you're taking my breath away.";
-    } else if (randNum <  0.55) {
+    } else if (randNum < 0.55) {
         output.innerHTML = "Did you invent the airplane? Cause you seem Wright for me.";
     } else if (randNum < 0.6) {
         output.innerHTML = "You're so beautiful I forgot my pickup line";
@@ -44,7 +44,7 @@ function btnClicked() {
         output.innerHTML = "When God made you, he was really just showing off.";
     } else if (randNum < 0.95) {
         output.innerHTML = "If you were a triangle, you'd be acute one.";
-    } else if (randNum <= 0.1) {
+    } else if (randNum <= 1) {
         output.innerHTML = "I hope you know CPR, because you're taking my breath away.";
     }
 }
